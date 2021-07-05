@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://www.bing.com/th/id/OGC.bb8ae9ad17e5829e5318e67e043c0386?pid=1.7&rurl=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f06%2fwater-gif-13.gif&ehk=OPX5hTq7iD4hH7JugO1zdQSqEJABOz5CYye7G%2b5tY5M%3d);
+}
+#family_members_name{
+    font-size: larger;
+}
+#family_member_image{
+    height: 350px;
+    width: 300px;
+}
